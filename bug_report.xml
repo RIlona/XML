@@ -1,1 +1,7 @@
-
+<?xml version="1.0"?>
+<bug_report>
+<ID>1</ID>
+<Sammary>registration button is not active</Sammary>
+<Project>test</Project>
+<Severity>Critical</Severity>
+</bug_report>
