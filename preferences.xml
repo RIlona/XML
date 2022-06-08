@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <preferences>
-        <Favorite movie>Aliens</Favorite movie>
-        <Favorite TV-show>The Big Bang Theory</Favorite TV-show>
-        <Favorite food>Sushi</Favorite food>
-        <Favorite season>Summer</Favorite season>
-		<Wish to visit>Iceland</Wish to visit>
+        <Favorite_movie>Aliens</Favorite_movie>
+        <Favorite_TV-show>The Big Bang Theory</Favorite_TV-show>
+        <Favorite_food>Sushi</Favorite_food>
+        <Favorite_season>Summer</Favorite_season>
+		<Wish_to_visit>Iceland</Wish_to_visit>
 </preferences>
